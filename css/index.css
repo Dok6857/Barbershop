@@ -1,2 +1,8 @@
+/*  BASE  */
 @import "../base/common.css";
+
+/*  UTILS  */
+@import "../css/utils/variables";
+
+/*  LAYOUT  */
 @import "../layout/header.css";
