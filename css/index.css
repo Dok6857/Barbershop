@@ -1,8 +1,11 @@
 /*  BASE  */
 @import "../base/common.css";
+@import "../css/base/common.css";
+@import "../css/base/section-container.css";
 
 /*  UTILS  */
 @import "../css/utils/variables";
+@import "../css/utils/visually-hidden.css";
 
 /*  LAYOUT  */
 @import "../layout/header.css";
